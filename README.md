@@ -1,2 +1,2 @@
 # datasciencerepo
-My First Repository
+This repo is related to everything in Data Science
